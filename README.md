@@ -3,6 +3,7 @@
 <p>
 <h1>Мої проєкти</h1>
 <ul>
+<li>https://timkasss.github.io/romsem//</li>
 <li>https://timkasss.github.io/landing/</li>
 <li>https://timkasss.github.io/realestate/</li>
 <li>https://timkasss.github.io/jadoo/</li>
